@@ -1,7 +1,9 @@
 TidesOfTerrorV0.1 - the "IT WORKS" update
 ------------------------------------------
 -Added new ItemType: Currencies, which will drop in the same categories as runes and perfect gems for now.
+
 --Seed of Corruption: A powerful currency that has unpredictable powers corrupting your items for better or worse.
+
 --Splinter of Salvation: A nifty currency to have on hand when you find that unique you wanted, but has bad rolls. With Salvation Splinters you can reroll a unique item's rolls. THIS DOES NOT WORK FOR UPPED BASES.
 
 -Added new cube recipes: Unique Item + Seed of Corruption = Corrupted Item + Random New Stat
