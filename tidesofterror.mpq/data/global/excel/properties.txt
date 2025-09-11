@@ -283,3 +283,4 @@ corrupt-display	1	17	corrupt_display																											CORRUPTED ITEM			
 corrupt-hidden	1	17	corrupt_hidden																											Gamba modifier rolls 1-1000					0
 hpregen/lvl	1	1	hpregen_lvl																											Life Regenerated per second (Based on Character Level)					0
 res-curse	1	1	curse_resistance																											+% Reduced Effect of Curses on You					0
+movespeed-hidden	1	17	movespeed_hidden																											flag for if the MS recipe has been used					0

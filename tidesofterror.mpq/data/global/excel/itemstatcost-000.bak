@@ -35,16 +35,16 @@ armorclass_vs_missile	32		1	16											11	5		8	0	9	0																69	19		Mod
 armorclass_vs_hth	33		1	16											13	7		8	0	8	0																70	19		ModStr6b	ModStr6b										0
 normal_damage_reduction	34		1	10											188	200		6	0	6	0																22	19		ModStr2u	ModStr2u									2	0
 magic_damage_reduction	35		1	10											397	340		6	0	6	0																21	19		ModStr2t	ModStr2t									2	0
-damageresist	36		1	9											152	68		8	0	9	200																22	29		ModStr2uPercent	ModStr2uPercentNegative									2	0
-magicresist	37		1	9											164	68		8	0	9	200																41	19		ModStr1m	ModStr1m									2	0
+damageresist	36		1	9											152	68		8	0	8	0																22	19		ModStr2uPercent	ModStr2uPercent									2	0
+magicresist	37		1	9											164	68		8	0	8	0																41	19		ModStr1m	ModStr1m									2	0
 maxmagicresist	38		1	9											1091	409		5	0	5	0																46	19		ModStr5x	ModStr5x									2	0
-fireresist	39		1	9											43	20		8	0	9	200																36	19		ModStr1j	ModStr1j		2	19		strModAllResistances	strModAllResistances				0
+fireresist	39		1	9											43	20		8	50	8	50																36	19		ModStr1j	ModStr1j		2	19		strModAllResistances	strModAllResistances				0
 maxfireresist	40		1	9											584	256		5	0	5	0																42	19		ModStr5u	ModStr5u										0
-lightresist	41		1	9											43	20		8	0	9	200																38	19		ModStr1l	ModStr1l		2	19		strModAllResistances	strModAllResistances				0
+lightresist	41		1	9											43	20		8	50	8	50																38	19		ModStr1l	ModStr1l		2	19		strModAllResistances	strModAllResistances				0
 maxlightresist	42		1	9											584	256		5	0	5	0																43	19		ModStr5w	ModStr5w										0
-coldresist	43		1	9											43	20		8	0	9	200																40	19		ModStr1k	ModStr1k		2	19		strModAllResistances	strModAllResistances				0
+coldresist	43		1	9											43	20		8	50	8	50																40	19		ModStr1k	ModStr1k		2	19		strModAllResistances	strModAllResistances				0
 maxcoldresist	44		1	9											584	256		5	0	5	0																44	19		ModStr5v	ModStr5v										0
-poisonresist	45		1	9											43	20		8	0	9	200																34	19		ModStr1n	ModStr1n		2	19		strModAllResistances	strModAllResistances				0
+poisonresist	45		1	9											43	20		8	50	8	50																34	19		ModStr1n	ModStr1n		2	19		strModAllResistances	strModAllResistances				0
 maxpoisonresist	46		1	9											526	256		5	0	5	0																45	19		ModStr5y	ModStr5y										0
 damageaura	47		1	16																																															0
 firemindam	48		1	16											11	10		8	0	8	0											1					102	19		ModStr1p	ModStr1p										0
@@ -108,7 +108,7 @@ item_fastercastrate	105	1	1	9											3876	156		7	20	7	20																142	1
 skill_bypass_beasts	106			1														7	20																																0
 item_singleskill	107		1	15	9						1			1	181	256		14	0	3	0	9															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
 item_restinpeace	108			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0
-curse_resistance	109		1	9											159	33		14	0	9	0																90	19		ModitemCurseRes	ModitemCurseRes										0
+curse_resistance	109		1	9											159	33		14	0	9	0																90	19		ModitemCurseRes	ModitemCurseRes									2	0
 item_poisonlengthresist	110		1	9											27	10		8	20	8	20																18	19		ModStr3r	ModStr3r									2	0
 item_normaldamage	111		1	8											94	100		7	20	9	20											1					122	19		ModStr5b	ModStr5b										0
 item_howl	112		1	8							1				55	10		7	-1	7	-1											1	domeleedamage	8	domissiledamage	8	79	5		ModStr3u	ModStr3u									2	0
@@ -182,26 +182,26 @@ attack_vs_montype	179			9	10										19	14		3	0	9		10										1					108	22		Mo
 damage_vs_montype	180			9	10										27	17		3	0	9		10										1					106	22		Moditemdamvsm	Moditemdamvsm										0
 fade	181	1		7														14	0	3																															0
 armor_override_percent	182	1	1	8														14	0																																0
-lasthitreactframe	183																	14	0																																0
-create_season	184																	14	0																																0
+unused183	183																																																		0
+unused184	184																																																		0
 bonus_mindamage	185		1	12																8	0											1																			0
 bonus_maxdamage	186		1	12																8	0											1																			0
-item_pierce_cold_immunity	187			10											1432	513				10																	100	19		ModItemMonColdSunder	ModItemMonColdSunder									2	0
+unused187	187																																																		0
 item_addskill_tab	188		1	3	6						1				11042	768		10	0	3	0	16															151	14		StrSklTabItem1	StrSklTabItem1										0
-item_pierce_fire_immunity	189			10											1432	513				10																	100	19		ModItemMonFireSunder	ModItemMonFireSunder									2	0
-item_pierce_light_immunity	190			10											1432	513				10																	100	19		ModItemMonLightSunder	ModItemMonLightSunder									2	0
-item_pierce_poison_immunity	191			10											1432	513				10																	100	19		ModItemMonPoisonSunder	ModItemMonPoisonSunder									2	0
-item_pierce_damage_immunity	192			10											1432	513				10																	100	19		ModItemMonPhysicalSunder	ModItemMonPhysicalSunder									2	0
-item_pierce_magic_immunity	193			10											1432	513				10																	100	19		ModItemMonMagicSunder	ModItemMonMagicSunder									2	0
+unused189	189																																																		0
+unused190	190																																																		0
+unused191	191																																																		0
+unused192	192																																																		0
+unused193	193																																																		0
 item_numsockets	194		1	4											38	170		4	0	4	0																														0
 item_skillonattack	195		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleeattack	20	domissileattack	20	160	15		ItemExpansiveChancX	ItemExpansiveChancX									2	0
 item_skillonkill	196		1	7	16						1			2	85	19		21	0	7	0	16										1	kill	20			160	15		ModitemskonKill	ModitemskonKill									2	0
 item_skillondeath	197		1	7	16						1			2	11	9		21	0	7	0	16											killed	30			160	15		Moditemskondeath	Moditemskondeath									2	0
 item_skillonhit	198		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									2	0
 item_skillonlevelup	199		1	7	16						1			2	7	6		21	0	7	0	16											levelup	30			160	15		ModitemskonLevel	ModitemskonLevel									2	0
-item_charge_noconsume	200			7											106	256				7	0																159	19		ModStr6k	ModStr6k									2	0
+unused200	200																																																		0
 item_skillongethit	201		1	7	16						1			2	190	256		21	0	7	0	16											damagedinmelee	21	damagedbymissile	21	160	15		ItemExpansiveChanc2	ItemExpansiveChanc2									2	0
-modifierlist_castid	202																																																		0
+unused202	202																																																		0
 unused203	203																	21	0																																0
 item_charged_skill	204		1	30							1			3	401	256		30	0	16	0	16															1	24		ModStre10d	ModStre10d										0
 item_noconsume	205		1	7											106	256				7	0											1					4	19		ModStr6j	ModStr6j									2	0
@@ -358,11 +358,11 @@ shortparam1	355			16																																															0
 questitemdifficulty	356																			2	0																														0
 passive_mag_mastery	357		1	12											1211	431		8	0	9	50																88	19		ModitemdamMagicsk	ModitemdamMagicsk									2	0
 passive_mag_pierce	358		1	9												2812		8	0	8	0																														0
-skill_cooldown	359																																																		0
+skill_cooldown	359			32	16																																														0
 skill_missile_damage_scale	360			32	16																																														0
 hit_skill_splash	361		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	160	15		SplashDmg	SplashDmg									2	0
-item_offensive_speed	362	1	1	9		1									1042	156		7	20	7	25			11			item_fasterattackrate	item_fastercastrate									88	19		ModIncOffSpeed	ModIncOffSpeed									2	0
-item_defensive_speed	363	1	1	9		1									1042	156		7	20	7	25			11			item_fastermovevelocity	item_fastergethitrate	item_fasterblockrate								88	19		ModIncDefSpeed	ModIncDefSpeed									2	0
+item_offensive_speed	362	1	1	10		1									1042	156		7	20	7	25			11			item_fasterattackrate	item_fastercastrate									88	19		ModIncOffSpeed	ModIncOffSpeed									2	0
+item_defensive_speed	363	1	1	10		1									1042	156		7	20	7	25			11			item_fastermovevelocity	item_fastergethitrate	item_fasterblockrate								88	19		ModIncDefSpeed	ModIncDefSpeed									2	0
 stat_HalfToFull	364																			1				2	2	item_halffreezeduration	item_cannotbefrozen																								0
 item_str_percent	365		1	10											32093	204		6	10	8	0			11			strength										58	19		ModStrPercent	ModStrPercent									2	0
 item_dex_percent	366		1	10											32093	204		6	10	8	0			11			dexterity										58	19		ModDexPercent	ModDexPercent									2	0
@@ -373,3 +373,4 @@ passive_arcane_mastery	370		1	10											1211	431		8	0	8	0			11			extra-mag	ex
 corrupt_display	371		1	2														1	0	1	0																999	3		ModitemCorrupted	ModitemCorrupted										0
 corrupt_hidden	372		1	12														11	0	11	0																		2												0
 hpregen_lvl	373		1	10											451	410		6	30	6	0			2	0	level	regen										56	19		ModStrHpPerLvl	ModStrHpPerLvl									2	0
+movespeed_hidden	374		1	12														11	0	11	0																		2												0
