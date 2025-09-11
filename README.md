@@ -14,7 +14,9 @@ TidesOfTerrorV0.1 - the "IT WORKS" update
 
 -Added 36 new uniques, with many more to come. Some created on my own, labeled (ToT). Others are inspired by my favorite RPG games, Path of Exile (PoE) and World of Warcraft (WoW).
 
--Every class starts with a unique charm that makes their attacks splash, works only for weapons and bows.
+-Added new item stats: Str%, Dex%, Vit%, Enr%, Life Regen per Character Level, Attack Splash, Offensive Speeds% (FCR, IAS Multiplier), Defensive Speeds% (FBR, FHR, FRW Multiplier), % Elemental Damage (Fire, Cold, Light Skill Damage Multiplier), % Arcane Damage (Magic, Poison Skill Damage Multiplier), 2x Half Freeze = Cannot Be Frozen
+
+-Every class starts with the Cube and a unique charm that makes their attacks splash, works only for weapons and bows.
 
 -Modified itemratio.txt poorly, item ratios need further testing
 
