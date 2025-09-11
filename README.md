@@ -17,3 +17,5 @@ TidesOfTerrorV0.1 - the "IT WORKS" update
 -Every class starts with a unique charm that makes their attacks splash, works only for weapons and bows.
 
 -Modified itemratio.txt poorly, item ratios need further testing
+
+-Modified monster density to slowly ramp up as the game progresses towards Hell.
