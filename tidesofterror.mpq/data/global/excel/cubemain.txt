@@ -154,8 +154,14 @@ test1	1			100					1	tsc							Kaom's Heart	99																																			
 test2	1			100					1	isc							Hyrri's Ire	99																																																																																						0
 test3	1			100					1	hp1							zz0	99																																																																																						0
 test4	1			100					1	mp1							zz1	99																																																																																						0
-test5	1			100					1	key							zz0	99																																																																																						0
-test6	1			100					2	uni	zz1						useitem	99																																																																																						0
+Boots + 10%MS	1			100	18	374	0		2	"boot,bas"	vps						useitem				move1			10	10	movespeed-hidden		1	1																																																																											0
+Boots + 20%MS	1			100	18	374	0		2	"boot,exc"	vps						useitem				move2			20	20	movespeed-hidden		1	1																																																																											0
+Boots + 30%MS	1			100	18	374	0		2	"boot,eli"	vps						useitem				move3			30	30	movespeed-hidden		1	1																																																																											0
+test5	1			100					1	key							The Stone of Jordan	99																																																																																						0
+DivineArmor	1			100					2	"armo,uni"	zz1						"useitem,reg"	99																																																																																						0
+DivineWeapon	1			100					2	"weap,uni"	zz1						"useitem,reg"	99																																																																																						0
+DivineRing	1			100					2	"ring,uni"	zz1						"useitem,reg"	99																																																																																						0
+DivineAmulet	1			100					2	"amul,uni"	zz1						"useitem,reg"	99																																																																																						0
 Corruption Start Armor	1			100	18	372	0		2	armo	zz0						useitem				corrupt-hidden			1	1000																					zz0																																																										0
 CorruptionArmor1 - BRICK	1			100	16	372	100		2	armo	zz0						useitem				corrupt-display			1	1	corrupt-hidden			1001	1001	levelreq			100	100																																																																					0
 CorruptionArmor2 -	1			100	16	372	200		2	armo	zz0						useitem				corrupt-display			1	1	corrupt-hidden			1001	1001	thorns			100	100																																																																					0

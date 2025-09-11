@@ -669,26 +669,26 @@ Swarm 2 (N)	17	46	1					125	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magi
 Swarm 1 (H)	17	68	1					125	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																0
 Swarm 2 (H)	17	74	1					125	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																0
 Sunder Charms			1					23899	Cold Rupture	30	Flame Rift	30	Crack of the Heavens	20	Rotting Fissure	12	Bone Break	6	Black Cleft	3												0
-Andariel			10	1000	750	500	250	19	"gld,mul=1280"	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3																0
-Andariel (N)			10	1000	750	500	250	19	"gld,mul=1536"	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
-Andariel (H)			10	1000	750	500	250	19	"gld,mul=2048"	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	tes	1														0
-Andarielq			10	1000	750	500	250	19	Act 2 Equip A	19	Act 2 Good	3																				0
-Andarielq Desecrated A	20	13	10	1000	750	500	250	19	Act 2 Equip A	19	Act 2 Good	3																				0
-Andarielq Desecrated B	20	32	10	1000	750	500	250	19	Act 4 Equip B	19	Act 4 Good	3																				0
-Andarielq Desecrated C	20	48	10	1000	750	500	250	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
-Andarielq (N)			10	1000	750	500	250	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
-Andarielq (N) Desecrated A	20	43	10	1000	750	500	250	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
-Andarielq (N) Desecrated B	20	57	10	1000	750	500	250	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3																				0
-Andarielq (N) Desecrated C	20	73	10	1000	750	500	250	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3																				0
-Andarielq (H)			10	1000	750	500	250	19	Act 2 (H) Equip A	19	Act 2 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated A			10	1000	750	500	250	19	Act 3 (H) Equip B	19	Act 3 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated B			10	1000	750	500	250	19	Act 3 (H) Equip C	19	Act 3 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated C			10	1000	750	500	250	19	Act 4 (H) Equip A	19	Act 4 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated D			10	1000	750	500	250	19	Act 4 (H) Equip B	19	Act 4 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated E			10	1000	750	500	250	19	Act 4 (H) Equip C	19	Act 4 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated F			10	1000	750	500	250	19	Act 5 (H) Equip A	19	Act 5 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated G			10	1000	750	500	250	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	tes	1																		0
-Andarielq Item (H) Desecrated H			10	1000	750	500	250	19	Act 5 (H) Equip C	19	Act 5 (H) Good	3	tes	1																		0
+Andariel			7	983	983	983	1024	19	"gld,mul=1280"	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3																0
+Andariel (N)			7	983	983	983	1024	19	"gld,mul=1536"	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
+Andariel (H)			7	983	983	983	1024	19	"gld,mul=2048"	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	tes	1														0
+Andarielq			7	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																				0
+Andarielq Desecrated A	20	13	7	995	995	1024	1024	19	Act 2 Equip A	19	Act 2 Good	3																				0
+Andarielq Desecrated B	20	32	7	995	995	1024	1024	19	Act 4 Equip B	19	Act 4 Good	3																				0
+Andarielq Desecrated C	20	48	7	995	995	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
+Andarielq (N)			7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
+Andarielq (N) Desecrated A	20	43	7	995	995	1024	1024	19	Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
+Andarielq (N) Desecrated B	20	57	7	995	995	1024	1024	19	Act 4 (N) Equip B	19	Act 4 (N) Good	3																				0
+Andarielq (N) Desecrated C	20	73	7	995	995	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3																				0
+Andarielq (H)			7	995	995	1024	1024	19	Act 2 (H) Equip A	19	Act 2 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated A			7	995	995	1024	1024	19	Act 3 (H) Equip B	19	Act 3 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated B			7	995	995	1024	1024	19	Act 3 (H) Equip C	19	Act 3 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated C			7	995	995	1024	1024	19	Act 4 (H) Equip A	19	Act 4 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated D			7	995	995	1024	1024	19	Act 4 (H) Equip B	19	Act 4 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated E			7	995	995	1024	1024	19	Act 4 (H) Equip C	19	Act 4 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated F			7	995	995	1024	1024	19	Act 5 (H) Equip A	19	Act 5 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated G			7	995	995	1024	1024	19	Act 5 (H) Equip B	19	Act 5 (H) Good	3	tes	1																		0
+Andarielq Item (H) Desecrated H			7	995	995	1024	1024	19	Act 5 (H) Equip C	19	Act 5 (H) Good	3	tes	1																		0
 Andarielq (H) Desecrated A	20	74	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated A	1																				0
 Andarielq (H) Desecrated B	20	78	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated B	1																				0
 Andarielq (H) Desecrated C	20	81	-2					0	Sunder Charms	1	Andarielq Item (H) Desecrated C	1																				0

@@ -269,13 +269,6 @@ oskill	1	22	item_nonclassskill																											+# to [Skill]	Skill	Min
 state	1	24	state																												State	1	1	Applies a State on the unit	0
 randclassskill	1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
 noconsume		1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
-pierce-immunity-cold	1	1	item_pierce_cold_immunity																											Monster Cold Immunity is Sundered		Min %	Max %		0
-pierce-immunity-fire	1	1	item_pierce_fire_immunity																											Monster Fire Immunity is Sundered		Min %	Max %		0
-pierce-immunity-light	1	1	item_pierce_light_immunity																											Monster Lightning Immunity is Sundered		Min %	Max %		0
-pierce-immunity-poison	1	1	item_pierce_poison_immunity																											Monster Poison Immunity is Sundered		Min %	Max %		0
-pierce-immunity-damage	1	1	item_pierce_damage_immunity																											Monster Physical Immunity is Sundered		Min %	Max %		0
-pierce-immunity-magic	1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
-charge-noconsume	1	1	item_charge_noconsume																											+#% chance for finishing moves to not consume charges		Min %	Max %		0
 hit-skill-splash	1	11	hit_skill_splash																											melee splash for 50% wpn dmg	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
 off-speed	1	8	item_offensive_speed																											+#% Increased Offensive Action Speed		Min %	Max %		0
 def-speed	1	8	item_defensive_speed																											+#% Increased Defensive Action Speed		Min %	Max %		0
@@ -288,5 +281,6 @@ vit%	1	1	item_vit_percent																											+#% Increased Vitality		Min 
 enr%	1	1	item_enr_percent																											+#% Increased Energy		Min %	Max %		0
 corrupt-display	1	17	corrupt_display																											CORRUPTED ITEM					0
 corrupt-hidden	1	17	corrupt_hidden																											Gamba modifier rolls 1-1000					0
-hpregen/lvl	1	1	hpregen_lvl																											+ Life Regenerated per second (Based on Character Level)					0
+hpregen/lvl	1	1	hpregen_lvl																											Life Regenerated per second (Based on Character Level)					0
 res-curse	1	1	curse_resistance																											+% Reduced Effect of Curses on You					0
+movespeed-hidden	1	17	movespeed_hidden																											flag for if the MS recipe has been used					0

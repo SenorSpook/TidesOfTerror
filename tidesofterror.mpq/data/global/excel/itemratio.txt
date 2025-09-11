@@ -1,0 +1,7 @@
+Function	Version	Uber	Class Specific	Unique	UniqueDivisor	UniqueMin	Rare	RareDivisor	RareMin	Set	SetDivisor	SetMin	Magic	MagicDivisor	MagicMin	HiQuality	HiQualityDivisor	Normal	NormalDivisor
+Ratio - (Monster Level / Ratio Divisor)	0	0	0	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
+Uber	0	1	0	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
+Ratio - (Monster Level / Ratio Divisor)	1	0	0	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
+Uber	1	1	0	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
+Class Specific	1	0	1	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
+Class Specific Uber	1	1	1	100	4	3200	100	1	1600	100	5	3200	100	2	800	100	3	100	3
